@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abu-khaer
 - 👀 I’m interested in ...Develope Eye catching Dynamic Website.
-- 🌱 I’m currently learning ...Javascripts, PHP, OOP , Laravek
+- 🌱 I’m currently learning ...Javascripts, PHP, OOP , Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...abukhaerdc98@gmail.com
 
